@@ -1,0 +1,3 @@
+[submodule "my-travel-plans"]
+	path = my-travel-plans
+	url = https://github.com/MoawazAyub/my-travel-plans
